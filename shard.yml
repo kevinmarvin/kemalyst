@@ -20,7 +20,7 @@ dependencies:
     branch: master
 
   quartz-mailer:
-    github: amber-crystal/quartz-mailer
+    github: kevinmarvin/quartz-mailer
     branch: master
 
   sidekiq:
